@@ -1,0 +1,35 @@
+
+		div{
+		border-style:solid;
+		background-color:black;
+		border-radius:10px;
+		border-width:15px;
+		margin:auto;
+		height:400px;
+		width:320px;
+		border-color:lightblue;
+	}
+			
+	#e1{
+		WIDTH:300PX;
+					font-size:20px;
+					border-color:Yellow;
+					border-width:06px;
+					PADDING:20PX;
+					background-color:white;
+				
+		}
+	
+	input{
+		border-width:05px;
+		font-size:20px;
+		border-radius:05px;
+		padding:10px;
+		height:45px;
+		width:60px;
+		border-color:yellow;
+		background-color:lightblue;
+	}
+	#d{
+		background-color:lightblue;
+	}
